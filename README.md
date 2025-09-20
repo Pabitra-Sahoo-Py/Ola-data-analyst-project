@@ -31,8 +31,8 @@ Tools used:
 - Driver Ratings Distribution
 - Customer vs. Driver Ratings
 
-Segregation of the views:
-### Overall
+### Segregation of the views:
+1. Overall
   ![Overall](dashboard_screenshot_1.png)
 2. Vehicle Type
   ![Vehicle Type](dashboard_screenshot_2.png)
